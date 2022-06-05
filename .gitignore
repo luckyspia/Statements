@@ -3,7 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 CIFAR_10/
-
+.data/
+.vector_cache/
 # C extensions
 *.so
 
